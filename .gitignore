@@ -8,6 +8,7 @@
 /.yarn
 /build
 /yarn.lock
+.yarnrc.yml
 
 # public
 /public/sw.js
